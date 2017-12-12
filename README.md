@@ -58,5 +58,7 @@ curvas de aprendizaje con la arquitectura original
 ## Curvas de aprendizaje
 Los tamaños del conjunto de entrenamiento usados fueron `[194, 644, 1091, 1537, 1984]` y cada uno con 10-fold cross validation
 y los resultados fueron los siguientes:
-![curves](https://drive.google.com/file/d/13ZLJIuX5WvepPu7VEVY9NseoPGqftUpx/view?usp=sharing)
+![curves](https://github.com/nanmon/cnn/blob/master/curves.png?raw=true)
 
+## Conclusión
+Necesito mucho mas datos, pero ya se hacer las curvas de aprendizaje yey
