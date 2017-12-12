@@ -1,4 +1,4 @@
-# Red neuronal convolucional: Chihuahua o muffin
+# [Red neuronal convolucional: Chihuahua o muffin](https://github.com/nanmon/cnn)
 
 ## ¿Como funciona la red neuronal convolucional?
 
